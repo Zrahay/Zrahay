@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Zrahay/Zrahay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"My name is Shubhang Sinha, currently a 3rd Year Undergrad building in the space of Machine Learning. 
 
 Here are some ideas to get you started:
 
