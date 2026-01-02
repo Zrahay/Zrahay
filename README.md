@@ -27,3 +27,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zrahay&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Zrahay&theme=radical)
+
+
+## Open Source
+
+[![An image of @zrahay's Holopin badges](https://holopin.io/api/user/zrahay/board)](https://holopin.io/@zrahay)
