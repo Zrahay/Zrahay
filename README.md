@@ -22,13 +22,23 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zrahay&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zrahay&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zrahay&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrahay&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Zrahay&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zrahay&theme=radical" alt="GitHub Streak" />
+</p>
 
 
 ## Open Source
 
-[![An image of @zrahay's Holopin badges](https://holopin.io/api/user/zrahay/board)](https://holopin.io/@zrahay)
+<p align="center">
+  <a href="https://holopin.io/@zrahay">
+    <img src="https://holopin.me/zrahay" alt="@zrahay's Holopin board" />
+  </a>
+</p>
